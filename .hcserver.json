@@ -1,1 +1,10 @@
-{"modulesPath":"./commands","websocketPort":"6060","rateLimit":{"halflife":"30000","threshold":"25"},"pulseSpeed":"16000"}
+{
+  "modulesPath": "./commands",
+  "websocketPort": "10000",
+  "rateLimit": {
+    "halflife": "30000",
+    "threshold": "25"
+  },
+  "pulseSpeed": "16000",
+  "adminPassword": "onlyforadmins18326593729732987932987934"
+}
