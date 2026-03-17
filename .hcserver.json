@@ -1,5 +1,6 @@
 {
   "modulesPath": "./commands",
+  "httpPort": "10000",
   "websocketPort": "10000",
   "rateLimit": {
     "halflife": "30000",
